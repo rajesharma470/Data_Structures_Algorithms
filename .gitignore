@@ -26,5 +26,14 @@ Data_Structures_Algorithms.iml
 ### VS Code ###
 .vscode/
 
+### Gradle ###
+.gradle
+
+### idea ###
+.idea/
+
+### build ###
+build/
+
 ### Mac OS ###
 .DS_Store
